@@ -1,0 +1,5 @@
+NISIT01 60 เกรด = C
+NISIT02 70 เกรด = B
+NISIT03 40 เกรด = F
+NISIT04 80 เกรด = A
+NISIT05 50 เกรด = D
